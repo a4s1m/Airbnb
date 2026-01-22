@@ -105,7 +105,7 @@ The analysis was conducted as part of the **BIA 672 – Big Data Decision Tools*
 ---
 
 ## Tools & Technologies
-- **R / Python**
+- **R**
 - Statistical modeling & regression
 - Data visualization
 - NLP & sentiment analysis
