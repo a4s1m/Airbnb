@@ -1,4 +1,4 @@
-# Airbnb Occupancy Analysis – Paris 🇫🇷
+# Airbnb Occupancy Analysis – Paris
 
 ## Project Overview
 This project analyzes how **location, pricing, room type, competition, and proximity to tourist attractions** influence Airbnb **occupancy rates in Paris, France**. Using data-driven statistical and machine learning techniques, the study identifies high-performing neighborhoods, optimal room types, and actionable pricing strategies for hosts and investors.
